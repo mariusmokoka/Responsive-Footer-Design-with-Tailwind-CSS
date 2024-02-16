@@ -1,7 +1,7 @@
 
 # Learning Reflections README EXAMPLE
 
-## **6.15 CodeSpace Pets Instagram Profile Project**
+## **Responsive Footer Design with Tailwind**
 
 ### Overview
 
